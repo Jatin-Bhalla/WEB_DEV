@@ -27,7 +27,7 @@ html, body {
 #part2 {
     width:67%;
     height: 100%; 
-    background-color: blue;
+    /* background-color: blue; */
 
     background-image:url("https://images.unsplash.com/photo-1642757186316-5dc18d55eb4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80") ;
     background-size: cover;
@@ -165,6 +165,25 @@ html, body {
     letter-spacing: 6px;
     transform-origin: 0%;   
 } 
+#nav{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 14.5%;
+    left: 5%;
+    top:5%
 
+}
+#nav img{
+    height: 60px;
+}
+#nav h5{
+
+    font-family: monumental;
+    font-size: 15px;
+    color: white;
+
+}
 
 
