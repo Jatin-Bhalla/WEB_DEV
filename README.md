@@ -1,7 +1,7 @@
 # WEB_DEV
 Front end and Back end projects 
 
-FRONTEND: 
+FRONTEND : 
 
 * The files will be named as F_one,F_two,...
 * They will contain the original source of inspiration. 
@@ -12,3 +12,10 @@ BACK END :
 
 * The files will be named as B_one, B_two,...
 * These projects will involve basic learning of the backend and cool projects.
+
+
+WEBSITE :
+* The files will be named as W_one, W_two,...
+* They will contain the original source of inspiration.
+* They will contain the whole website created  in total
+  
